@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/kimtaeho/.local/share/virtualenvs/airbnb-api-PgZflIO6/bin/python",
+    "python.formatting.provider": "black"
+}
